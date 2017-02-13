@@ -27,49 +27,36 @@ Note that you will be granted significant opportunities to work in class, but th
 
 Modify this document and add your responses to the following prompts below.
 
-### What problem will your application solve?
+###What problem will your application solve?
 
-*Write a paragraph to describe the utility of your application. This applies equally for games. When would someone use your application? Why would they use your application?*
+My application, named Constant ID, is a simple tool for users to ensure security on their OSX device. Once activated using the user's password, the application will scan keystrokes to detect the identity of the person typing by looking at the difference in time between specific keystroke patterns. 
 
-Replace this with your paragraph(s).
+Constant ID will only look at keystroke timings when the user is typing frequently. It will use machine learning to constantly update what your keystroke patterns are to make sure that it does not lock the owner out of their device. This app is a proof of concept. If the app is built to fully function it would lock the user out if they are not a verified. Because I do not know how easy it is to lock a user out of their device (I assume not easy), the proof-of-concept Constant ID will not lock the user out, only notify the user via message that there is an intruder on their device.
 
-### What is your inspiration for this project?
+###What is your inspiration for this project?
 
-*Have you seen another application that you wish to improve on? Has someone asked you to create this?*
+While talking to others and reading about security, I have heard that the password is an insecure way of identifying users. I thought of another way to identify a user so that it would be much harder to act as the owner of/steal a computer.
 
-Replace this with your paragraph(s).
+###What is your prior experience in this area?
 
-### What is your prior experience in this area?
+There are no special APIs that I am experienced with for this application. It will be a standard mac OS X application. I have no experience creating OS X apps, just as I have little no experience in implementing something like constant ID before. 
 
-*Have you written an application like this before? Have you made use of any required APIs before?*
+###What skills do you hope to acquire by completing this project
 
-Replace this with your paragraph(s).
+I hope to learn about creating OS X user interfaces, and learn about security through programming and designing the algorithm for Constant ID. But most of all I am interested in machine learning. Through this project I will learn more about what machine learning is, what its applications are, and how to program an algorithm using it.
 
-### What are skills do you hope to acquire by completing this project?
+###What dependencies, if any, will be required to complete your project?
 
-*For example, you might be writing a networked application for the first time. Or, you may be writing an application that requires a particularly well designed user interface. Describe what you expect to learn by writing this application.*
+I believe that I will need some sort of networking API. I look to use the Alamofire API to solve this problem. Other than this dependency, I will only be using standard OS X APIs provided by Apple.
 
-Replace this with your paragraph(s).
+###Rate the personal difficulty level of this project
 
-### What dependencies, if any, will be required to complete your project?
+This will be a moderately difficult project for me. The algorithm could prove challenging, depend on how accurate I wish to make it. The UI design seems fairly simplistic, but there are other possible functionalities of the project mentioned above that I could look into. For instance, I could look into how to put an apple device to sleep if Constant ID determines that the user typing is not verified. I would rate this project an 8/10 for difficulty.
 
-*If you are writing a networked application, you might be using an API like Alamofire to simplify that part of the implementation. If you are writing an application that communicates over Bluetooth, you may be using the Core Bluetooth framework. Please list any expected dependencies for your project.*
+###Identify what you think your biggest challenge for successfully completing this ISP will be.
 
-Replace this with your paragraph(s).
+I believe that the most important thing for me is setting a schedule for myself and stick to it to make sure that I get key features of this application done when I need them. If I do not stick to a good schedule, I will procrastinate and not finish my project by the allotted due date.
 
-### Rate the personal difficulty level of this project.
-
-Replace this with your paragraph(s).
-
-### Identify what you think your biggest challenge for successfully completing this ISP will be.
-
-Replace this with your paragraph(s).
-
-### Make storyboards to indicate the user interface and/or functionality of your application.
-
-*In the section below, sketch out a plan for your application. This is where you will spend the majority of your time in completing the ISP proposal. Think through what you hope to create and as needed, adjust your responses to the questions above.*
-
-Replace this with your images and paragraphs.
 
 
 
