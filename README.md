@@ -58,6 +58,8 @@ This will be a moderately difficult project for me. The algorithm could prove ch
 I believe that the most important thing for me is setting a schedule for myself and stick to it to make sure that I get key features of this application done when I need them. If I do not stick to a good schedule, I will procrastinate and not finish my project by the allotted due date.
 
 
+https://github.com/jeffreygoldsmith/ics4u-isp-constantid/blob/master/Desktop%20View.png?raw=true
+
 
 
 
