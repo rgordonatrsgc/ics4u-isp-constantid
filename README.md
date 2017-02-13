@@ -57,9 +57,19 @@ This will be a moderately difficult project for me. The algorithm could prove ch
 
 I believe that the most important thing for me is setting a schedule for myself and stick to it to make sure that I get key features of this application done when I need them. If I do not stick to a good schedule, I will procrastinate and not finish my project by the allotted due date.
 
+###Make storyboards to indicate the user interface and/or functionality of your application.
 
-https://github.com/jeffreygoldsmith/ics4u-isp-constantid/blob/master/Desktop%20View.png?raw=true
+The desktop view:
+![desktopView](https://github.com/jeffreygoldsmith/ics4u-isp-constantid/blob/master/Desktop%20View.png?raw=true)  
 
+The Main App View:
+![mainAppView](https://github.com/jeffreygoldsmith/ics4u-isp-constantid/blob/master/Main%20App%20View.png?raw=true)  
+
+Do a baseline test:  
+![baselineTestView](https://github.com/jeffreygoldsmith/ics4u-isp-constantid/blob/master/Do%20a%20baseline%20test%20view.png?raw=true)  
+
+Whilst doing a baseline test:
+![doingBaselineTestView](https://github.com/jeffreygoldsmith/ics4u-isp-constantid/blob/master/Doing%20baseline%20test%20view.png?raw=true)
 
 
 
