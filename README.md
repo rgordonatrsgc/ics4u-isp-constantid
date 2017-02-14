@@ -72,4 +72,9 @@ Whilst doing a baseline test:
 ![doingBaselineTestView](https://github.com/jeffreygoldsmith/ics4u-isp-constantid/blob/master/Doing%20baseline%20test%20view.png?raw=true)
 
 
+###Algorithm Description
+
+This program will verify the user based on their typing profile. Creating the typing profile will be created by first looking at the baseline tests. After the user is finished the baseline tests the algorithm will then identify when the user is in the middle of typing. This is important because if they are not in the middle of consistently typing the program will get incorrect data, negatively affecting the accuracy of the typing profile. Constant ID will look at each word the user types and record the specific time difference between each keystroke. By recording these differences the algorithm will build up a more comprehensive and accurate profile to be able to recognize how the user types every word and keystroke pattern.
+
+The rough idea I have now ist that program builds the typing profile by averaging the time delta between keystrokes. I believe that there is a more accurate way to do this other than averaging, but more comprehensive research will be required to find or think of a specific way to better handle this problem, which I will do as one of my early deliverables.
 
